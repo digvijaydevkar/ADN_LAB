@@ -1,0 +1,14 @@
+E:\ADN_LAB\Experiment2\bin\Debug\net10.0\Experiment2.exe
+E:\ADN_LAB\Experiment2\bin\Debug\net10.0\Experiment2.deps.json
+E:\ADN_LAB\Experiment2\bin\Debug\net10.0\Experiment2.runtimeconfig.json
+E:\ADN_LAB\Experiment2\bin\Debug\net10.0\Experiment2.dll
+E:\ADN_LAB\Experiment2\bin\Debug\net10.0\Experiment2.pdb
+E:\ADN_LAB\Experiment2\obj\Debug\net10.0\Experiment2.GeneratedMSBuildEditorConfig.editorconfig
+E:\ADN_LAB\Experiment2\obj\Debug\net10.0\Experiment2.AssemblyInfoInputs.cache
+E:\ADN_LAB\Experiment2\obj\Debug\net10.0\Experiment2.AssemblyInfo.cs
+E:\ADN_LAB\Experiment2\obj\Debug\net10.0\Experiment2.csproj.CoreCompileInputs.cache
+E:\ADN_LAB\Experiment2\obj\Debug\net10.0\Experiment2.dll
+E:\ADN_LAB\Experiment2\obj\Debug\net10.0\refint\Experiment2.dll
+E:\ADN_LAB\Experiment2\obj\Debug\net10.0\Experiment2.pdb
+E:\ADN_LAB\Experiment2\obj\Debug\net10.0\Experiment2.genruntimeconfig.cache
+E:\ADN_LAB\Experiment2\obj\Debug\net10.0\ref\Experiment2.dll
