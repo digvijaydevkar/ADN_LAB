@@ -1,0 +1,14 @@
+E:\ADN_LAB\ArithmeticApp\bin\Debug\net10.0\ArithmeticApp.exe
+E:\ADN_LAB\ArithmeticApp\bin\Debug\net10.0\ArithmeticApp.deps.json
+E:\ADN_LAB\ArithmeticApp\bin\Debug\net10.0\ArithmeticApp.runtimeconfig.json
+E:\ADN_LAB\ArithmeticApp\bin\Debug\net10.0\ArithmeticApp.dll
+E:\ADN_LAB\ArithmeticApp\bin\Debug\net10.0\ArithmeticApp.pdb
+E:\ADN_LAB\ArithmeticApp\obj\Debug\net10.0\ArithmeticApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\ADN_LAB\ArithmeticApp\obj\Debug\net10.0\ArithmeticApp.AssemblyInfoInputs.cache
+E:\ADN_LAB\ArithmeticApp\obj\Debug\net10.0\ArithmeticApp.AssemblyInfo.cs
+E:\ADN_LAB\ArithmeticApp\obj\Debug\net10.0\ArithmeticApp.csproj.CoreCompileInputs.cache
+E:\ADN_LAB\ArithmeticApp\obj\Debug\net10.0\ArithmeticApp.dll
+E:\ADN_LAB\ArithmeticApp\obj\Debug\net10.0\refint\ArithmeticApp.dll
+E:\ADN_LAB\ArithmeticApp\obj\Debug\net10.0\ArithmeticApp.pdb
+E:\ADN_LAB\ArithmeticApp\obj\Debug\net10.0\ArithmeticApp.genruntimeconfig.cache
+E:\ADN_LAB\ArithmeticApp\obj\Debug\net10.0\ref\ArithmeticApp.dll
