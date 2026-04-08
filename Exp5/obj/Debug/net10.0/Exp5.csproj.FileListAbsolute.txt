@@ -1,0 +1,14 @@
+E:\ADN_LAB\Exp5\bin\Debug\net10.0\Exp5.exe
+E:\ADN_LAB\Exp5\bin\Debug\net10.0\Exp5.deps.json
+E:\ADN_LAB\Exp5\bin\Debug\net10.0\Exp5.runtimeconfig.json
+E:\ADN_LAB\Exp5\bin\Debug\net10.0\Exp5.dll
+E:\ADN_LAB\Exp5\bin\Debug\net10.0\Exp5.pdb
+E:\ADN_LAB\Exp5\obj\Debug\net10.0\Exp5.GeneratedMSBuildEditorConfig.editorconfig
+E:\ADN_LAB\Exp5\obj\Debug\net10.0\Exp5.AssemblyInfoInputs.cache
+E:\ADN_LAB\Exp5\obj\Debug\net10.0\Exp5.AssemblyInfo.cs
+E:\ADN_LAB\Exp5\obj\Debug\net10.0\Exp5.csproj.CoreCompileInputs.cache
+E:\ADN_LAB\Exp5\obj\Debug\net10.0\Exp5.dll
+E:\ADN_LAB\Exp5\obj\Debug\net10.0\refint\Exp5.dll
+E:\ADN_LAB\Exp5\obj\Debug\net10.0\Exp5.pdb
+E:\ADN_LAB\Exp5\obj\Debug\net10.0\Exp5.genruntimeconfig.cache
+E:\ADN_LAB\Exp5\obj\Debug\net10.0\ref\Exp5.dll
